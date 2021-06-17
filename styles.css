@@ -1,0 +1,11 @@
+p, li, h5 {
+    color: maroon
+  }
+
+.nav-link {
+    color: white
+}
+
+body {
+    background-color: maroon;
+}
